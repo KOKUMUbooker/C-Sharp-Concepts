@@ -1,0 +1,15 @@
+/home/booker/projects/C#-Course/3.Methods/Methods/obj/Debug/net5.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/booker/projects/C#-Course/3.Methods/Methods/obj/Debug/net5.0/Methods.AssemblyInfoInputs.cache
+/home/booker/projects/C#-Course/3.Methods/Methods/obj/Debug/net5.0/Methods.AssemblyInfo.cs
+/home/booker/projects/C#-Course/3.Methods/Methods/obj/Debug/net5.0/Methods.csproj.CoreCompileInputs.cache
+/home/booker/projects/C#-Course/3.Methods/Methods/bin/Debug/net5.0/Methods
+/home/booker/projects/C#-Course/3.Methods/Methods/bin/Debug/net5.0/Methods.deps.json
+/home/booker/projects/C#-Course/3.Methods/Methods/bin/Debug/net5.0/Methods.runtimeconfig.json
+/home/booker/projects/C#-Course/3.Methods/Methods/bin/Debug/net5.0/Methods.runtimeconfig.dev.json
+/home/booker/projects/C#-Course/3.Methods/Methods/bin/Debug/net5.0/Methods.dll
+/home/booker/projects/C#-Course/3.Methods/Methods/bin/Debug/net5.0/Methods.pdb
+/home/booker/projects/C#-Course/3.Methods/Methods/obj/Debug/net5.0/Methods.dll
+/home/booker/projects/C#-Course/3.Methods/Methods/obj/Debug/net5.0/refint/Methods.dll
+/home/booker/projects/C#-Course/3.Methods/Methods/obj/Debug/net5.0/Methods.pdb
+/home/booker/projects/C#-Course/3.Methods/Methods/obj/Debug/net5.0/Methods.genruntimeconfig.cache
+/home/booker/projects/C#-Course/3.Methods/Methods/obj/Debug/net5.0/ref/Methods.dll

@@ -1,0 +1,15 @@
+/home/booker/projects/C#-Course/7.Collections/Queues/bin/Debug/net5.0/Queues
+/home/booker/projects/C#-Course/7.Collections/Queues/bin/Debug/net5.0/Queues.deps.json
+/home/booker/projects/C#-Course/7.Collections/Queues/bin/Debug/net5.0/Queues.runtimeconfig.json
+/home/booker/projects/C#-Course/7.Collections/Queues/bin/Debug/net5.0/Queues.runtimeconfig.dev.json
+/home/booker/projects/C#-Course/7.Collections/Queues/bin/Debug/net5.0/Queues.dll
+/home/booker/projects/C#-Course/7.Collections/Queues/bin/Debug/net5.0/Queues.pdb
+/home/booker/projects/C#-Course/7.Collections/Queues/obj/Debug/net5.0/Queues.GeneratedMSBuildEditorConfig.editorconfig
+/home/booker/projects/C#-Course/7.Collections/Queues/obj/Debug/net5.0/Queues.AssemblyInfoInputs.cache
+/home/booker/projects/C#-Course/7.Collections/Queues/obj/Debug/net5.0/Queues.AssemblyInfo.cs
+/home/booker/projects/C#-Course/7.Collections/Queues/obj/Debug/net5.0/Queues.csproj.CoreCompileInputs.cache
+/home/booker/projects/C#-Course/7.Collections/Queues/obj/Debug/net5.0/Queues.dll
+/home/booker/projects/C#-Course/7.Collections/Queues/obj/Debug/net5.0/refint/Queues.dll
+/home/booker/projects/C#-Course/7.Collections/Queues/obj/Debug/net5.0/Queues.pdb
+/home/booker/projects/C#-Course/7.Collections/Queues/obj/Debug/net5.0/Queues.genruntimeconfig.cache
+/home/booker/projects/C#-Course/7.Collections/Queues/obj/Debug/net5.0/ref/Queues.dll

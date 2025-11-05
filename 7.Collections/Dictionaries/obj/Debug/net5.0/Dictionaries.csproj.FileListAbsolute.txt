@@ -1,0 +1,15 @@
+/home/booker/projects/C#-Course/7.Collections/Dictionaries/bin/Debug/net5.0/Dictionaries
+/home/booker/projects/C#-Course/7.Collections/Dictionaries/bin/Debug/net5.0/Dictionaries.deps.json
+/home/booker/projects/C#-Course/7.Collections/Dictionaries/bin/Debug/net5.0/Dictionaries.runtimeconfig.json
+/home/booker/projects/C#-Course/7.Collections/Dictionaries/bin/Debug/net5.0/Dictionaries.runtimeconfig.dev.json
+/home/booker/projects/C#-Course/7.Collections/Dictionaries/bin/Debug/net5.0/Dictionaries.dll
+/home/booker/projects/C#-Course/7.Collections/Dictionaries/bin/Debug/net5.0/Dictionaries.pdb
+/home/booker/projects/C#-Course/7.Collections/Dictionaries/obj/Debug/net5.0/Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+/home/booker/projects/C#-Course/7.Collections/Dictionaries/obj/Debug/net5.0/Dictionaries.AssemblyInfoInputs.cache
+/home/booker/projects/C#-Course/7.Collections/Dictionaries/obj/Debug/net5.0/Dictionaries.AssemblyInfo.cs
+/home/booker/projects/C#-Course/7.Collections/Dictionaries/obj/Debug/net5.0/Dictionaries.csproj.CoreCompileInputs.cache
+/home/booker/projects/C#-Course/7.Collections/Dictionaries/obj/Debug/net5.0/Dictionaries.dll
+/home/booker/projects/C#-Course/7.Collections/Dictionaries/obj/Debug/net5.0/refint/Dictionaries.dll
+/home/booker/projects/C#-Course/7.Collections/Dictionaries/obj/Debug/net5.0/Dictionaries.pdb
+/home/booker/projects/C#-Course/7.Collections/Dictionaries/obj/Debug/net5.0/Dictionaries.genruntimeconfig.cache
+/home/booker/projects/C#-Course/7.Collections/Dictionaries/obj/Debug/net5.0/ref/Dictionaries.dll

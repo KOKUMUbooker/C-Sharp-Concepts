@@ -1,0 +1,15 @@
+/home/booker/projects/C#-Course/8.Inheritance/Interfaces/IEnumeratorNIEnumerable/bin/Debug/net5.0/IEnumeratorNIEnumerable
+/home/booker/projects/C#-Course/8.Inheritance/Interfaces/IEnumeratorNIEnumerable/bin/Debug/net5.0/IEnumeratorNIEnumerable.deps.json
+/home/booker/projects/C#-Course/8.Inheritance/Interfaces/IEnumeratorNIEnumerable/bin/Debug/net5.0/IEnumeratorNIEnumerable.runtimeconfig.json
+/home/booker/projects/C#-Course/8.Inheritance/Interfaces/IEnumeratorNIEnumerable/bin/Debug/net5.0/IEnumeratorNIEnumerable.runtimeconfig.dev.json
+/home/booker/projects/C#-Course/8.Inheritance/Interfaces/IEnumeratorNIEnumerable/bin/Debug/net5.0/IEnumeratorNIEnumerable.dll
+/home/booker/projects/C#-Course/8.Inheritance/Interfaces/IEnumeratorNIEnumerable/bin/Debug/net5.0/IEnumeratorNIEnumerable.pdb
+/home/booker/projects/C#-Course/8.Inheritance/Interfaces/IEnumeratorNIEnumerable/obj/Debug/net5.0/IEnumeratorNIEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+/home/booker/projects/C#-Course/8.Inheritance/Interfaces/IEnumeratorNIEnumerable/obj/Debug/net5.0/IEnumeratorNIEnumerable.AssemblyInfoInputs.cache
+/home/booker/projects/C#-Course/8.Inheritance/Interfaces/IEnumeratorNIEnumerable/obj/Debug/net5.0/IEnumeratorNIEnumerable.AssemblyInfo.cs
+/home/booker/projects/C#-Course/8.Inheritance/Interfaces/IEnumeratorNIEnumerable/obj/Debug/net5.0/IEnumeratorNIEnumerable.csproj.CoreCompileInputs.cache
+/home/booker/projects/C#-Course/8.Inheritance/Interfaces/IEnumeratorNIEnumerable/obj/Debug/net5.0/IEnumeratorNIEnumerable.dll
+/home/booker/projects/C#-Course/8.Inheritance/Interfaces/IEnumeratorNIEnumerable/obj/Debug/net5.0/refint/IEnumeratorNIEnumerable.dll
+/home/booker/projects/C#-Course/8.Inheritance/Interfaces/IEnumeratorNIEnumerable/obj/Debug/net5.0/IEnumeratorNIEnumerable.pdb
+/home/booker/projects/C#-Course/8.Inheritance/Interfaces/IEnumeratorNIEnumerable/obj/Debug/net5.0/IEnumeratorNIEnumerable.genruntimeconfig.cache
+/home/booker/projects/C#-Course/8.Inheritance/Interfaces/IEnumeratorNIEnumerable/obj/Debug/net5.0/ref/IEnumeratorNIEnumerable.dll

@@ -1,0 +1,15 @@
+/home/booker/projects/C#-Course/7.Collections/Stacks/bin/Debug/net5.0/Stacks
+/home/booker/projects/C#-Course/7.Collections/Stacks/bin/Debug/net5.0/Stacks.deps.json
+/home/booker/projects/C#-Course/7.Collections/Stacks/bin/Debug/net5.0/Stacks.runtimeconfig.json
+/home/booker/projects/C#-Course/7.Collections/Stacks/bin/Debug/net5.0/Stacks.runtimeconfig.dev.json
+/home/booker/projects/C#-Course/7.Collections/Stacks/bin/Debug/net5.0/Stacks.dll
+/home/booker/projects/C#-Course/7.Collections/Stacks/bin/Debug/net5.0/Stacks.pdb
+/home/booker/projects/C#-Course/7.Collections/Stacks/obj/Debug/net5.0/Stacks.GeneratedMSBuildEditorConfig.editorconfig
+/home/booker/projects/C#-Course/7.Collections/Stacks/obj/Debug/net5.0/Stacks.AssemblyInfoInputs.cache
+/home/booker/projects/C#-Course/7.Collections/Stacks/obj/Debug/net5.0/Stacks.AssemblyInfo.cs
+/home/booker/projects/C#-Course/7.Collections/Stacks/obj/Debug/net5.0/Stacks.csproj.CoreCompileInputs.cache
+/home/booker/projects/C#-Course/7.Collections/Stacks/obj/Debug/net5.0/Stacks.dll
+/home/booker/projects/C#-Course/7.Collections/Stacks/obj/Debug/net5.0/refint/Stacks.dll
+/home/booker/projects/C#-Course/7.Collections/Stacks/obj/Debug/net5.0/Stacks.pdb
+/home/booker/projects/C#-Course/7.Collections/Stacks/obj/Debug/net5.0/Stacks.genruntimeconfig.cache
+/home/booker/projects/C#-Course/7.Collections/Stacks/obj/Debug/net5.0/ref/Stacks.dll

@@ -1,0 +1,15 @@
+/home/booker/projects/C#-Course/8.Inheritance/VirtualNOverride/bin/Debug/net5.0/VirtualNOverride
+/home/booker/projects/C#-Course/8.Inheritance/VirtualNOverride/bin/Debug/net5.0/VirtualNOverride.deps.json
+/home/booker/projects/C#-Course/8.Inheritance/VirtualNOverride/bin/Debug/net5.0/VirtualNOverride.runtimeconfig.json
+/home/booker/projects/C#-Course/8.Inheritance/VirtualNOverride/bin/Debug/net5.0/VirtualNOverride.runtimeconfig.dev.json
+/home/booker/projects/C#-Course/8.Inheritance/VirtualNOverride/bin/Debug/net5.0/VirtualNOverride.dll
+/home/booker/projects/C#-Course/8.Inheritance/VirtualNOverride/bin/Debug/net5.0/VirtualNOverride.pdb
+/home/booker/projects/C#-Course/8.Inheritance/VirtualNOverride/obj/Debug/net5.0/VirtualNOverride.GeneratedMSBuildEditorConfig.editorconfig
+/home/booker/projects/C#-Course/8.Inheritance/VirtualNOverride/obj/Debug/net5.0/VirtualNOverride.AssemblyInfoInputs.cache
+/home/booker/projects/C#-Course/8.Inheritance/VirtualNOverride/obj/Debug/net5.0/VirtualNOverride.AssemblyInfo.cs
+/home/booker/projects/C#-Course/8.Inheritance/VirtualNOverride/obj/Debug/net5.0/VirtualNOverride.csproj.CoreCompileInputs.cache
+/home/booker/projects/C#-Course/8.Inheritance/VirtualNOverride/obj/Debug/net5.0/VirtualNOverride.dll
+/home/booker/projects/C#-Course/8.Inheritance/VirtualNOverride/obj/Debug/net5.0/refint/VirtualNOverride.dll
+/home/booker/projects/C#-Course/8.Inheritance/VirtualNOverride/obj/Debug/net5.0/VirtualNOverride.pdb
+/home/booker/projects/C#-Course/8.Inheritance/VirtualNOverride/obj/Debug/net5.0/VirtualNOverride.genruntimeconfig.cache
+/home/booker/projects/C#-Course/8.Inheritance/VirtualNOverride/obj/Debug/net5.0/ref/VirtualNOverride.dll

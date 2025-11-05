@@ -1,0 +1,15 @@
+/home/booker/projects/C#-Course/2.Data-types-N-variables/ConsoleClass/bin/Debug/net5.0/ConsoleClass
+/home/booker/projects/C#-Course/2.Data-types-N-variables/ConsoleClass/bin/Debug/net5.0/ConsoleClass.deps.json
+/home/booker/projects/C#-Course/2.Data-types-N-variables/ConsoleClass/bin/Debug/net5.0/ConsoleClass.runtimeconfig.json
+/home/booker/projects/C#-Course/2.Data-types-N-variables/ConsoleClass/bin/Debug/net5.0/ConsoleClass.runtimeconfig.dev.json
+/home/booker/projects/C#-Course/2.Data-types-N-variables/ConsoleClass/bin/Debug/net5.0/ConsoleClass.dll
+/home/booker/projects/C#-Course/2.Data-types-N-variables/ConsoleClass/bin/Debug/net5.0/ConsoleClass.pdb
+/home/booker/projects/C#-Course/2.Data-types-N-variables/ConsoleClass/obj/Debug/net5.0/ConsoleClass.GeneratedMSBuildEditorConfig.editorconfig
+/home/booker/projects/C#-Course/2.Data-types-N-variables/ConsoleClass/obj/Debug/net5.0/ConsoleClass.AssemblyInfoInputs.cache
+/home/booker/projects/C#-Course/2.Data-types-N-variables/ConsoleClass/obj/Debug/net5.0/ConsoleClass.AssemblyInfo.cs
+/home/booker/projects/C#-Course/2.Data-types-N-variables/ConsoleClass/obj/Debug/net5.0/ConsoleClass.csproj.CoreCompileInputs.cache
+/home/booker/projects/C#-Course/2.Data-types-N-variables/ConsoleClass/obj/Debug/net5.0/ConsoleClass.dll
+/home/booker/projects/C#-Course/2.Data-types-N-variables/ConsoleClass/obj/Debug/net5.0/refint/ConsoleClass.dll
+/home/booker/projects/C#-Course/2.Data-types-N-variables/ConsoleClass/obj/Debug/net5.0/ConsoleClass.pdb
+/home/booker/projects/C#-Course/2.Data-types-N-variables/ConsoleClass/obj/Debug/net5.0/ConsoleClass.genruntimeconfig.cache
+/home/booker/projects/C#-Course/2.Data-types-N-variables/ConsoleClass/obj/Debug/net5.0/ref/ConsoleClass.dll

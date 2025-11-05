@@ -1,0 +1,15 @@
+/home/booker/projects/C#-Course/1.Intro/HelloWorld/bin/Debug/net5.0/HelloWorld
+/home/booker/projects/C#-Course/1.Intro/HelloWorld/bin/Debug/net5.0/HelloWorld.deps.json
+/home/booker/projects/C#-Course/1.Intro/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.json
+/home/booker/projects/C#-Course/1.Intro/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.dev.json
+/home/booker/projects/C#-Course/1.Intro/HelloWorld/bin/Debug/net5.0/HelloWorld.dll
+/home/booker/projects/C#-Course/1.Intro/HelloWorld/bin/Debug/net5.0/HelloWorld.pdb
+/home/booker/projects/C#-Course/1.Intro/HelloWorld/obj/Debug/net5.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/booker/projects/C#-Course/1.Intro/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfoInputs.cache
+/home/booker/projects/C#-Course/1.Intro/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfo.cs
+/home/booker/projects/C#-Course/1.Intro/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/booker/projects/C#-Course/1.Intro/HelloWorld/obj/Debug/net5.0/HelloWorld.dll
+/home/booker/projects/C#-Course/1.Intro/HelloWorld/obj/Debug/net5.0/refint/HelloWorld.dll
+/home/booker/projects/C#-Course/1.Intro/HelloWorld/obj/Debug/net5.0/HelloWorld.pdb
+/home/booker/projects/C#-Course/1.Intro/HelloWorld/obj/Debug/net5.0/HelloWorld.genruntimeconfig.cache
+/home/booker/projects/C#-Course/1.Intro/HelloWorld/obj/Debug/net5.0/ref/HelloWorld.dll

@@ -1,0 +1,15 @@
+/home/booker/projects/C#-Course/6.OOP/Properties/bin/Debug/net5.0/Properties
+/home/booker/projects/C#-Course/6.OOP/Properties/bin/Debug/net5.0/Properties.deps.json
+/home/booker/projects/C#-Course/6.OOP/Properties/bin/Debug/net5.0/Properties.runtimeconfig.json
+/home/booker/projects/C#-Course/6.OOP/Properties/bin/Debug/net5.0/Properties.runtimeconfig.dev.json
+/home/booker/projects/C#-Course/6.OOP/Properties/bin/Debug/net5.0/Properties.dll
+/home/booker/projects/C#-Course/6.OOP/Properties/bin/Debug/net5.0/Properties.pdb
+/home/booker/projects/C#-Course/6.OOP/Properties/obj/Debug/net5.0/Properties.GeneratedMSBuildEditorConfig.editorconfig
+/home/booker/projects/C#-Course/6.OOP/Properties/obj/Debug/net5.0/Properties.AssemblyInfoInputs.cache
+/home/booker/projects/C#-Course/6.OOP/Properties/obj/Debug/net5.0/Properties.AssemblyInfo.cs
+/home/booker/projects/C#-Course/6.OOP/Properties/obj/Debug/net5.0/Properties.csproj.CoreCompileInputs.cache
+/home/booker/projects/C#-Course/6.OOP/Properties/obj/Debug/net5.0/Properties.dll
+/home/booker/projects/C#-Course/6.OOP/Properties/obj/Debug/net5.0/refint/Properties.dll
+/home/booker/projects/C#-Course/6.OOP/Properties/obj/Debug/net5.0/Properties.pdb
+/home/booker/projects/C#-Course/6.OOP/Properties/obj/Debug/net5.0/Properties.genruntimeconfig.cache
+/home/booker/projects/C#-Course/6.OOP/Properties/obj/Debug/net5.0/ref/Properties.dll

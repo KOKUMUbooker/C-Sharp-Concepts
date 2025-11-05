@@ -1,0 +1,15 @@
+/home/booker/projects/C#-Course/7.Collections/MultiDimensionalArrays/bin/Debug/net5.0/MultiDimensionalArrays
+/home/booker/projects/C#-Course/7.Collections/MultiDimensionalArrays/bin/Debug/net5.0/MultiDimensionalArrays.deps.json
+/home/booker/projects/C#-Course/7.Collections/MultiDimensionalArrays/bin/Debug/net5.0/MultiDimensionalArrays.runtimeconfig.json
+/home/booker/projects/C#-Course/7.Collections/MultiDimensionalArrays/bin/Debug/net5.0/MultiDimensionalArrays.runtimeconfig.dev.json
+/home/booker/projects/C#-Course/7.Collections/MultiDimensionalArrays/bin/Debug/net5.0/MultiDimensionalArrays.dll
+/home/booker/projects/C#-Course/7.Collections/MultiDimensionalArrays/bin/Debug/net5.0/MultiDimensionalArrays.pdb
+/home/booker/projects/C#-Course/7.Collections/MultiDimensionalArrays/obj/Debug/net5.0/MultiDimensionalArrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/booker/projects/C#-Course/7.Collections/MultiDimensionalArrays/obj/Debug/net5.0/MultiDimensionalArrays.AssemblyInfoInputs.cache
+/home/booker/projects/C#-Course/7.Collections/MultiDimensionalArrays/obj/Debug/net5.0/MultiDimensionalArrays.AssemblyInfo.cs
+/home/booker/projects/C#-Course/7.Collections/MultiDimensionalArrays/obj/Debug/net5.0/MultiDimensionalArrays.csproj.CoreCompileInputs.cache
+/home/booker/projects/C#-Course/7.Collections/MultiDimensionalArrays/obj/Debug/net5.0/MultiDimensionalArrays.dll
+/home/booker/projects/C#-Course/7.Collections/MultiDimensionalArrays/obj/Debug/net5.0/refint/MultiDimensionalArrays.dll
+/home/booker/projects/C#-Course/7.Collections/MultiDimensionalArrays/obj/Debug/net5.0/MultiDimensionalArrays.pdb
+/home/booker/projects/C#-Course/7.Collections/MultiDimensionalArrays/obj/Debug/net5.0/MultiDimensionalArrays.genruntimeconfig.cache
+/home/booker/projects/C#-Course/7.Collections/MultiDimensionalArrays/obj/Debug/net5.0/ref/MultiDimensionalArrays.dll

@@ -1,0 +1,15 @@
+/home/booker/projects/C#-Course/6.OOP/MembersNDestructors/obj/Debug/net5.0/MembersNDestructors.GeneratedMSBuildEditorConfig.editorconfig
+/home/booker/projects/C#-Course/6.OOP/MembersNDestructors/obj/Debug/net5.0/MembersNDestructors.AssemblyInfoInputs.cache
+/home/booker/projects/C#-Course/6.OOP/MembersNDestructors/obj/Debug/net5.0/MembersNDestructors.AssemblyInfo.cs
+/home/booker/projects/C#-Course/6.OOP/MembersNDestructors/obj/Debug/net5.0/MembersNDestructors.csproj.CoreCompileInputs.cache
+/home/booker/projects/C#-Course/6.OOP/MembersNDestructors/bin/Debug/net5.0/MembersNDestructors
+/home/booker/projects/C#-Course/6.OOP/MembersNDestructors/bin/Debug/net5.0/MembersNDestructors.deps.json
+/home/booker/projects/C#-Course/6.OOP/MembersNDestructors/bin/Debug/net5.0/MembersNDestructors.runtimeconfig.json
+/home/booker/projects/C#-Course/6.OOP/MembersNDestructors/bin/Debug/net5.0/MembersNDestructors.runtimeconfig.dev.json
+/home/booker/projects/C#-Course/6.OOP/MembersNDestructors/bin/Debug/net5.0/MembersNDestructors.dll
+/home/booker/projects/C#-Course/6.OOP/MembersNDestructors/bin/Debug/net5.0/MembersNDestructors.pdb
+/home/booker/projects/C#-Course/6.OOP/MembersNDestructors/obj/Debug/net5.0/MembersNDestructors.dll
+/home/booker/projects/C#-Course/6.OOP/MembersNDestructors/obj/Debug/net5.0/refint/MembersNDestructors.dll
+/home/booker/projects/C#-Course/6.OOP/MembersNDestructors/obj/Debug/net5.0/MembersNDestructors.pdb
+/home/booker/projects/C#-Course/6.OOP/MembersNDestructors/obj/Debug/net5.0/MembersNDestructors.genruntimeconfig.cache
+/home/booker/projects/C#-Course/6.OOP/MembersNDestructors/obj/Debug/net5.0/ref/MembersNDestructors.dll
