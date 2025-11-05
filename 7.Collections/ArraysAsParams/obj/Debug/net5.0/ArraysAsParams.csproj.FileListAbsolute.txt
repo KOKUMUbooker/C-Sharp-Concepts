@@ -1,0 +1,15 @@
+/home/booker/projects/C#-Course/7.Collections/ArraysAsParams/bin/Debug/net5.0/ArraysAsParams
+/home/booker/projects/C#-Course/7.Collections/ArraysAsParams/bin/Debug/net5.0/ArraysAsParams.deps.json
+/home/booker/projects/C#-Course/7.Collections/ArraysAsParams/bin/Debug/net5.0/ArraysAsParams.runtimeconfig.json
+/home/booker/projects/C#-Course/7.Collections/ArraysAsParams/bin/Debug/net5.0/ArraysAsParams.runtimeconfig.dev.json
+/home/booker/projects/C#-Course/7.Collections/ArraysAsParams/bin/Debug/net5.0/ArraysAsParams.dll
+/home/booker/projects/C#-Course/7.Collections/ArraysAsParams/bin/Debug/net5.0/ArraysAsParams.pdb
+/home/booker/projects/C#-Course/7.Collections/ArraysAsParams/obj/Debug/net5.0/ArraysAsParams.GeneratedMSBuildEditorConfig.editorconfig
+/home/booker/projects/C#-Course/7.Collections/ArraysAsParams/obj/Debug/net5.0/ArraysAsParams.AssemblyInfoInputs.cache
+/home/booker/projects/C#-Course/7.Collections/ArraysAsParams/obj/Debug/net5.0/ArraysAsParams.AssemblyInfo.cs
+/home/booker/projects/C#-Course/7.Collections/ArraysAsParams/obj/Debug/net5.0/ArraysAsParams.csproj.CoreCompileInputs.cache
+/home/booker/projects/C#-Course/7.Collections/ArraysAsParams/obj/Debug/net5.0/ArraysAsParams.dll
+/home/booker/projects/C#-Course/7.Collections/ArraysAsParams/obj/Debug/net5.0/refint/ArraysAsParams.dll
+/home/booker/projects/C#-Course/7.Collections/ArraysAsParams/obj/Debug/net5.0/ArraysAsParams.pdb
+/home/booker/projects/C#-Course/7.Collections/ArraysAsParams/obj/Debug/net5.0/ArraysAsParams.genruntimeconfig.cache
+/home/booker/projects/C#-Course/7.Collections/ArraysAsParams/obj/Debug/net5.0/ref/ArraysAsParams.dll

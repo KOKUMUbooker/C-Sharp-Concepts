@@ -1,0 +1,15 @@
+/home/booker/projects/C#-Course/2.Data-types-N-variables/Variables-Example/bin/Debug/net5.0/Variables-Example
+/home/booker/projects/C#-Course/2.Data-types-N-variables/Variables-Example/bin/Debug/net5.0/Variables-Example.deps.json
+/home/booker/projects/C#-Course/2.Data-types-N-variables/Variables-Example/bin/Debug/net5.0/Variables-Example.runtimeconfig.json
+/home/booker/projects/C#-Course/2.Data-types-N-variables/Variables-Example/bin/Debug/net5.0/Variables-Example.runtimeconfig.dev.json
+/home/booker/projects/C#-Course/2.Data-types-N-variables/Variables-Example/bin/Debug/net5.0/Variables-Example.dll
+/home/booker/projects/C#-Course/2.Data-types-N-variables/Variables-Example/bin/Debug/net5.0/Variables-Example.pdb
+/home/booker/projects/C#-Course/2.Data-types-N-variables/Variables-Example/obj/Debug/net5.0/Variables-Example.GeneratedMSBuildEditorConfig.editorconfig
+/home/booker/projects/C#-Course/2.Data-types-N-variables/Variables-Example/obj/Debug/net5.0/Variables-Example.AssemblyInfoInputs.cache
+/home/booker/projects/C#-Course/2.Data-types-N-variables/Variables-Example/obj/Debug/net5.0/Variables-Example.AssemblyInfo.cs
+/home/booker/projects/C#-Course/2.Data-types-N-variables/Variables-Example/obj/Debug/net5.0/Variables-Example.csproj.CoreCompileInputs.cache
+/home/booker/projects/C#-Course/2.Data-types-N-variables/Variables-Example/obj/Debug/net5.0/Variables-Example.dll
+/home/booker/projects/C#-Course/2.Data-types-N-variables/Variables-Example/obj/Debug/net5.0/refint/Variables-Example.dll
+/home/booker/projects/C#-Course/2.Data-types-N-variables/Variables-Example/obj/Debug/net5.0/Variables-Example.pdb
+/home/booker/projects/C#-Course/2.Data-types-N-variables/Variables-Example/obj/Debug/net5.0/Variables-Example.genruntimeconfig.cache
+/home/booker/projects/C#-Course/2.Data-types-N-variables/Variables-Example/obj/Debug/net5.0/ref/Variables-Example.dll

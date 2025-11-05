@@ -1,0 +1,15 @@
+/home/booker/projects/C#-Course/8.Inheritance/Interfaces/bin/Debug/net5.0/Interfaces
+/home/booker/projects/C#-Course/8.Inheritance/Interfaces/bin/Debug/net5.0/Interfaces.deps.json
+/home/booker/projects/C#-Course/8.Inheritance/Interfaces/bin/Debug/net5.0/Interfaces.runtimeconfig.json
+/home/booker/projects/C#-Course/8.Inheritance/Interfaces/bin/Debug/net5.0/Interfaces.runtimeconfig.dev.json
+/home/booker/projects/C#-Course/8.Inheritance/Interfaces/bin/Debug/net5.0/Interfaces.dll
+/home/booker/projects/C#-Course/8.Inheritance/Interfaces/bin/Debug/net5.0/Interfaces.pdb
+/home/booker/projects/C#-Course/8.Inheritance/Interfaces/obj/Debug/net5.0/Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/home/booker/projects/C#-Course/8.Inheritance/Interfaces/obj/Debug/net5.0/Interfaces.AssemblyInfoInputs.cache
+/home/booker/projects/C#-Course/8.Inheritance/Interfaces/obj/Debug/net5.0/Interfaces.AssemblyInfo.cs
+/home/booker/projects/C#-Course/8.Inheritance/Interfaces/obj/Debug/net5.0/Interfaces.csproj.CoreCompileInputs.cache
+/home/booker/projects/C#-Course/8.Inheritance/Interfaces/obj/Debug/net5.0/Interfaces.dll
+/home/booker/projects/C#-Course/8.Inheritance/Interfaces/obj/Debug/net5.0/refint/Interfaces.dll
+/home/booker/projects/C#-Course/8.Inheritance/Interfaces/obj/Debug/net5.0/Interfaces.pdb
+/home/booker/projects/C#-Course/8.Inheritance/Interfaces/obj/Debug/net5.0/Interfaces.genruntimeconfig.cache
+/home/booker/projects/C#-Course/8.Inheritance/Interfaces/obj/Debug/net5.0/ref/Interfaces.dll

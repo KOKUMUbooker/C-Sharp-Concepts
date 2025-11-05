@@ -1,0 +1,15 @@
+/home/booker/projects/C#-Course/7.Collections/ArrayListClass/bin/Debug/net5.0/ArrayListClass
+/home/booker/projects/C#-Course/7.Collections/ArrayListClass/bin/Debug/net5.0/ArrayListClass.deps.json
+/home/booker/projects/C#-Course/7.Collections/ArrayListClass/bin/Debug/net5.0/ArrayListClass.runtimeconfig.json
+/home/booker/projects/C#-Course/7.Collections/ArrayListClass/bin/Debug/net5.0/ArrayListClass.runtimeconfig.dev.json
+/home/booker/projects/C#-Course/7.Collections/ArrayListClass/bin/Debug/net5.0/ArrayListClass.dll
+/home/booker/projects/C#-Course/7.Collections/ArrayListClass/bin/Debug/net5.0/ArrayListClass.pdb
+/home/booker/projects/C#-Course/7.Collections/ArrayListClass/obj/Debug/net5.0/ArrayListClass.GeneratedMSBuildEditorConfig.editorconfig
+/home/booker/projects/C#-Course/7.Collections/ArrayListClass/obj/Debug/net5.0/ArrayListClass.AssemblyInfoInputs.cache
+/home/booker/projects/C#-Course/7.Collections/ArrayListClass/obj/Debug/net5.0/ArrayListClass.AssemblyInfo.cs
+/home/booker/projects/C#-Course/7.Collections/ArrayListClass/obj/Debug/net5.0/ArrayListClass.csproj.CoreCompileInputs.cache
+/home/booker/projects/C#-Course/7.Collections/ArrayListClass/obj/Debug/net5.0/ArrayListClass.dll
+/home/booker/projects/C#-Course/7.Collections/ArrayListClass/obj/Debug/net5.0/refint/ArrayListClass.dll
+/home/booker/projects/C#-Course/7.Collections/ArrayListClass/obj/Debug/net5.0/ArrayListClass.pdb
+/home/booker/projects/C#-Course/7.Collections/ArrayListClass/obj/Debug/net5.0/ArrayListClass.genruntimeconfig.cache
+/home/booker/projects/C#-Course/7.Collections/ArrayListClass/obj/Debug/net5.0/ref/ArrayListClass.dll

@@ -1,0 +1,15 @@
+/home/booker/projects/C#-Course/7.Collections/ParamsKeyword/bin/Debug/net5.0/ParamsKeyword
+/home/booker/projects/C#-Course/7.Collections/ParamsKeyword/bin/Debug/net5.0/ParamsKeyword.deps.json
+/home/booker/projects/C#-Course/7.Collections/ParamsKeyword/bin/Debug/net5.0/ParamsKeyword.runtimeconfig.json
+/home/booker/projects/C#-Course/7.Collections/ParamsKeyword/bin/Debug/net5.0/ParamsKeyword.runtimeconfig.dev.json
+/home/booker/projects/C#-Course/7.Collections/ParamsKeyword/bin/Debug/net5.0/ParamsKeyword.dll
+/home/booker/projects/C#-Course/7.Collections/ParamsKeyword/bin/Debug/net5.0/ParamsKeyword.pdb
+/home/booker/projects/C#-Course/7.Collections/ParamsKeyword/obj/Debug/net5.0/ParamsKeyword.GeneratedMSBuildEditorConfig.editorconfig
+/home/booker/projects/C#-Course/7.Collections/ParamsKeyword/obj/Debug/net5.0/ParamsKeyword.AssemblyInfoInputs.cache
+/home/booker/projects/C#-Course/7.Collections/ParamsKeyword/obj/Debug/net5.0/ParamsKeyword.AssemblyInfo.cs
+/home/booker/projects/C#-Course/7.Collections/ParamsKeyword/obj/Debug/net5.0/ParamsKeyword.csproj.CoreCompileInputs.cache
+/home/booker/projects/C#-Course/7.Collections/ParamsKeyword/obj/Debug/net5.0/ParamsKeyword.dll
+/home/booker/projects/C#-Course/7.Collections/ParamsKeyword/obj/Debug/net5.0/refint/ParamsKeyword.dll
+/home/booker/projects/C#-Course/7.Collections/ParamsKeyword/obj/Debug/net5.0/ParamsKeyword.pdb
+/home/booker/projects/C#-Course/7.Collections/ParamsKeyword/obj/Debug/net5.0/ParamsKeyword.genruntimeconfig.cache
+/home/booker/projects/C#-Course/7.Collections/ParamsKeyword/obj/Debug/net5.0/ref/ParamsKeyword.dll

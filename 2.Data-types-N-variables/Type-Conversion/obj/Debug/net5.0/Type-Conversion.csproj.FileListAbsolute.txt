@@ -1,0 +1,15 @@
+/home/booker/projects/C#-Course/2.Data-types-N-variables/Type-Conversion/bin/Debug/net5.0/Type-Conversion
+/home/booker/projects/C#-Course/2.Data-types-N-variables/Type-Conversion/bin/Debug/net5.0/Type-Conversion.deps.json
+/home/booker/projects/C#-Course/2.Data-types-N-variables/Type-Conversion/bin/Debug/net5.0/Type-Conversion.runtimeconfig.json
+/home/booker/projects/C#-Course/2.Data-types-N-variables/Type-Conversion/bin/Debug/net5.0/Type-Conversion.runtimeconfig.dev.json
+/home/booker/projects/C#-Course/2.Data-types-N-variables/Type-Conversion/bin/Debug/net5.0/Type-Conversion.dll
+/home/booker/projects/C#-Course/2.Data-types-N-variables/Type-Conversion/bin/Debug/net5.0/Type-Conversion.pdb
+/home/booker/projects/C#-Course/2.Data-types-N-variables/Type-Conversion/obj/Debug/net5.0/Type-Conversion.GeneratedMSBuildEditorConfig.editorconfig
+/home/booker/projects/C#-Course/2.Data-types-N-variables/Type-Conversion/obj/Debug/net5.0/Type-Conversion.AssemblyInfoInputs.cache
+/home/booker/projects/C#-Course/2.Data-types-N-variables/Type-Conversion/obj/Debug/net5.0/Type-Conversion.AssemblyInfo.cs
+/home/booker/projects/C#-Course/2.Data-types-N-variables/Type-Conversion/obj/Debug/net5.0/Type-Conversion.csproj.CoreCompileInputs.cache
+/home/booker/projects/C#-Course/2.Data-types-N-variables/Type-Conversion/obj/Debug/net5.0/Type-Conversion.dll
+/home/booker/projects/C#-Course/2.Data-types-N-variables/Type-Conversion/obj/Debug/net5.0/refint/Type-Conversion.dll
+/home/booker/projects/C#-Course/2.Data-types-N-variables/Type-Conversion/obj/Debug/net5.0/Type-Conversion.pdb
+/home/booker/projects/C#-Course/2.Data-types-N-variables/Type-Conversion/obj/Debug/net5.0/Type-Conversion.genruntimeconfig.cache
+/home/booker/projects/C#-Course/2.Data-types-N-variables/Type-Conversion/obj/Debug/net5.0/ref/Type-Conversion.dll

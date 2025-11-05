@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/booker/.dotnet/store/|arch|/|tfm|",
+      "/home/booker/.nuget/packages"
+    ]
+  }
+}

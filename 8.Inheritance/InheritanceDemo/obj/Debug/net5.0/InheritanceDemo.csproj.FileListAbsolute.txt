@@ -1,0 +1,15 @@
+/home/booker/projects/C#-Course/8.Inheritance/InheritanceDemo/bin/Debug/net5.0/InheritanceDemo
+/home/booker/projects/C#-Course/8.Inheritance/InheritanceDemo/bin/Debug/net5.0/InheritanceDemo.deps.json
+/home/booker/projects/C#-Course/8.Inheritance/InheritanceDemo/bin/Debug/net5.0/InheritanceDemo.runtimeconfig.json
+/home/booker/projects/C#-Course/8.Inheritance/InheritanceDemo/bin/Debug/net5.0/InheritanceDemo.runtimeconfig.dev.json
+/home/booker/projects/C#-Course/8.Inheritance/InheritanceDemo/bin/Debug/net5.0/InheritanceDemo.dll
+/home/booker/projects/C#-Course/8.Inheritance/InheritanceDemo/bin/Debug/net5.0/InheritanceDemo.pdb
+/home/booker/projects/C#-Course/8.Inheritance/InheritanceDemo/obj/Debug/net5.0/InheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+/home/booker/projects/C#-Course/8.Inheritance/InheritanceDemo/obj/Debug/net5.0/InheritanceDemo.AssemblyInfoInputs.cache
+/home/booker/projects/C#-Course/8.Inheritance/InheritanceDemo/obj/Debug/net5.0/InheritanceDemo.AssemblyInfo.cs
+/home/booker/projects/C#-Course/8.Inheritance/InheritanceDemo/obj/Debug/net5.0/InheritanceDemo.csproj.CoreCompileInputs.cache
+/home/booker/projects/C#-Course/8.Inheritance/InheritanceDemo/obj/Debug/net5.0/InheritanceDemo.dll
+/home/booker/projects/C#-Course/8.Inheritance/InheritanceDemo/obj/Debug/net5.0/refint/InheritanceDemo.dll
+/home/booker/projects/C#-Course/8.Inheritance/InheritanceDemo/obj/Debug/net5.0/InheritanceDemo.pdb
+/home/booker/projects/C#-Course/8.Inheritance/InheritanceDemo/obj/Debug/net5.0/InheritanceDemo.genruntimeconfig.cache
+/home/booker/projects/C#-Course/8.Inheritance/InheritanceDemo/obj/Debug/net5.0/ref/InheritanceDemo.dll
