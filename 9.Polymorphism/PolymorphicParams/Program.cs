@@ -62,6 +62,10 @@ namespace PolymorphicParams
                the derived method is only called when using a derived-type 
                reference. If the object is referenced through the base type, 
                the base method will be called instead.
+             - In both explicit and implicit method hiding, the derived method 
+               does not override the base version — it simply replaces it for
+               derived-type references only. The base version is still used
+               when called through a base-type reference.
             */
 
             // ShowDetails() method called is the one defined 
@@ -71,10 +75,18 @@ namespace PolymorphicParams
             AudiR1.ShowDetails();
 
             // ShowDetails() called is the one defined the 
-            // the BMW
+            // the BMW - the derived class
             Console.WriteLine();
             BMW BMWM5 = new BMW(300, "Blue", "M5");
             BMWM5.ShowDetails();
+
+            // ShowDetails() called is the one defined the 
+            // the Car - the Base class
+            Console.WriteLine();
+            // Gets implicitly converted to Car - Similar to : 
+            // Car carB = (Car)BMWM5;
+            Car carB = BMWM5;
+            carB.ShowDetails();
         }
     }
 }
