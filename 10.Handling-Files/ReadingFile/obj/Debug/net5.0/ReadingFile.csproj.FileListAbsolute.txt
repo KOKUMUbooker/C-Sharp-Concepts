@@ -1,0 +1,16 @@
+/home/booker/projects/C-Sharp-Concepts/10.Handling-Files/ReadingFile/bin/Debug/net5.0/ReadingFile
+/home/booker/projects/C-Sharp-Concepts/10.Handling-Files/ReadingFile/bin/Debug/net5.0/ReadingFile.deps.json
+/home/booker/projects/C-Sharp-Concepts/10.Handling-Files/ReadingFile/bin/Debug/net5.0/ReadingFile.runtimeconfig.json
+/home/booker/projects/C-Sharp-Concepts/10.Handling-Files/ReadingFile/bin/Debug/net5.0/ReadingFile.runtimeconfig.dev.json
+/home/booker/projects/C-Sharp-Concepts/10.Handling-Files/ReadingFile/bin/Debug/net5.0/ReadingFile.dll
+/home/booker/projects/C-Sharp-Concepts/10.Handling-Files/ReadingFile/bin/Debug/net5.0/ReadingFile.pdb
+/home/booker/projects/C-Sharp-Concepts/10.Handling-Files/ReadingFile/obj/Debug/net5.0/ReadingFile.GeneratedMSBuildEditorConfig.editorconfig
+/home/booker/projects/C-Sharp-Concepts/10.Handling-Files/ReadingFile/obj/Debug/net5.0/ReadingFile.AssemblyInfoInputs.cache
+/home/booker/projects/C-Sharp-Concepts/10.Handling-Files/ReadingFile/obj/Debug/net5.0/ReadingFile.AssemblyInfo.cs
+/home/booker/projects/C-Sharp-Concepts/10.Handling-Files/ReadingFile/obj/Debug/net5.0/ReadingFile.csproj.CoreCompileInputs.cache
+/home/booker/projects/C-Sharp-Concepts/10.Handling-Files/ReadingFile/obj/Debug/net5.0/ReadingFile.sourcelink.json
+/home/booker/projects/C-Sharp-Concepts/10.Handling-Files/ReadingFile/obj/Debug/net5.0/ReadingFile.dll
+/home/booker/projects/C-Sharp-Concepts/10.Handling-Files/ReadingFile/obj/Debug/net5.0/refint/ReadingFile.dll
+/home/booker/projects/C-Sharp-Concepts/10.Handling-Files/ReadingFile/obj/Debug/net5.0/ReadingFile.pdb
+/home/booker/projects/C-Sharp-Concepts/10.Handling-Files/ReadingFile/obj/Debug/net5.0/ReadingFile.genruntimeconfig.cache
+/home/booker/projects/C-Sharp-Concepts/10.Handling-Files/ReadingFile/obj/Debug/net5.0/ref/ReadingFile.dll
