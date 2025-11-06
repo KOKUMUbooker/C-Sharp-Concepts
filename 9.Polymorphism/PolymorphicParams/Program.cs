@@ -87,6 +87,15 @@ namespace PolymorphicParams
             // Car carB = (Car)BMWM5;
             Car carB = BMWM5;
             carB.ShowDetails();
+            
+            Console.WriteLine();
+            M3 myM3 = new M3(300, "Yellow", "M3");
+            myM3.Repair();
+        
+        
+        
+        
+        
         }
     }
 }

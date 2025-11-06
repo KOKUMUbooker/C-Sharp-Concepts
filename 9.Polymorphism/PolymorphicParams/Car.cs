@@ -17,7 +17,7 @@ namespace PolymorphicParams
         {
             Console.WriteLine($"Car has HP of {this.HP} & is {this.Color} in color.");
         }
-        
+
         public virtual void Repair()
         {
             Console.WriteLine("Car has been repaired!");
