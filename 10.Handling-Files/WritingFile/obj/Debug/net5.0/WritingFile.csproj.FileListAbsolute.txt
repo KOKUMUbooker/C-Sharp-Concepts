@@ -1,0 +1,16 @@
+/home/booker/projects/C-Sharp-Concepts/10.Handling-Files/WritingFile/bin/Debug/net5.0/WritingFile
+/home/booker/projects/C-Sharp-Concepts/10.Handling-Files/WritingFile/bin/Debug/net5.0/WritingFile.deps.json
+/home/booker/projects/C-Sharp-Concepts/10.Handling-Files/WritingFile/bin/Debug/net5.0/WritingFile.runtimeconfig.json
+/home/booker/projects/C-Sharp-Concepts/10.Handling-Files/WritingFile/bin/Debug/net5.0/WritingFile.runtimeconfig.dev.json
+/home/booker/projects/C-Sharp-Concepts/10.Handling-Files/WritingFile/bin/Debug/net5.0/WritingFile.dll
+/home/booker/projects/C-Sharp-Concepts/10.Handling-Files/WritingFile/bin/Debug/net5.0/WritingFile.pdb
+/home/booker/projects/C-Sharp-Concepts/10.Handling-Files/WritingFile/obj/Debug/net5.0/WritingFile.GeneratedMSBuildEditorConfig.editorconfig
+/home/booker/projects/C-Sharp-Concepts/10.Handling-Files/WritingFile/obj/Debug/net5.0/WritingFile.AssemblyInfoInputs.cache
+/home/booker/projects/C-Sharp-Concepts/10.Handling-Files/WritingFile/obj/Debug/net5.0/WritingFile.AssemblyInfo.cs
+/home/booker/projects/C-Sharp-Concepts/10.Handling-Files/WritingFile/obj/Debug/net5.0/WritingFile.csproj.CoreCompileInputs.cache
+/home/booker/projects/C-Sharp-Concepts/10.Handling-Files/WritingFile/obj/Debug/net5.0/WritingFile.sourcelink.json
+/home/booker/projects/C-Sharp-Concepts/10.Handling-Files/WritingFile/obj/Debug/net5.0/WritingFile.dll
+/home/booker/projects/C-Sharp-Concepts/10.Handling-Files/WritingFile/obj/Debug/net5.0/refint/WritingFile.dll
+/home/booker/projects/C-Sharp-Concepts/10.Handling-Files/WritingFile/obj/Debug/net5.0/WritingFile.pdb
+/home/booker/projects/C-Sharp-Concepts/10.Handling-Files/WritingFile/obj/Debug/net5.0/WritingFile.genruntimeconfig.cache
+/home/booker/projects/C-Sharp-Concepts/10.Handling-Files/WritingFile/obj/Debug/net5.0/ref/WritingFile.dll
