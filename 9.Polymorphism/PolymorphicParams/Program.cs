@@ -48,6 +48,11 @@ namespace PolymorphicParams
             Car BMWM3 = new BMW(300, "Blue", "M3");
             Car AudiR1 = new Audi(299, "Silver", "R1");
 
+            BMWM3.SetCardIDInfo(1234, "John Doe");
+            AudiR1.SetCardIDInfo(3446, "Jane Doe");
+            BMWM3.DisplayCarInfo();
+            AudiR1.DisplayCarInfo();
+
             // ================ Method hiding ====================
             /*
              - If the base class has defined some method & the derived
@@ -91,9 +96,6 @@ namespace PolymorphicParams
             Console.WriteLine();
             M3 myM3 = new M3(300, "Yellow", "M3");
             myM3.Repair();
-        
-        
-        
         
         
         }
