@@ -1,0 +1,16 @@
+/home/booker/projects/C-Sharp-Concepts/9.Polymorphism/PolymorphicParams/bin/Debug/net5.0/PolymorphicParams
+/home/booker/projects/C-Sharp-Concepts/9.Polymorphism/PolymorphicParams/bin/Debug/net5.0/PolymorphicParams.deps.json
+/home/booker/projects/C-Sharp-Concepts/9.Polymorphism/PolymorphicParams/bin/Debug/net5.0/PolymorphicParams.runtimeconfig.json
+/home/booker/projects/C-Sharp-Concepts/9.Polymorphism/PolymorphicParams/bin/Debug/net5.0/PolymorphicParams.runtimeconfig.dev.json
+/home/booker/projects/C-Sharp-Concepts/9.Polymorphism/PolymorphicParams/bin/Debug/net5.0/PolymorphicParams.dll
+/home/booker/projects/C-Sharp-Concepts/9.Polymorphism/PolymorphicParams/bin/Debug/net5.0/PolymorphicParams.pdb
+/home/booker/projects/C-Sharp-Concepts/9.Polymorphism/PolymorphicParams/obj/Debug/net5.0/PolymorphicParams.GeneratedMSBuildEditorConfig.editorconfig
+/home/booker/projects/C-Sharp-Concepts/9.Polymorphism/PolymorphicParams/obj/Debug/net5.0/PolymorphicParams.AssemblyInfoInputs.cache
+/home/booker/projects/C-Sharp-Concepts/9.Polymorphism/PolymorphicParams/obj/Debug/net5.0/PolymorphicParams.AssemblyInfo.cs
+/home/booker/projects/C-Sharp-Concepts/9.Polymorphism/PolymorphicParams/obj/Debug/net5.0/PolymorphicParams.csproj.CoreCompileInputs.cache
+/home/booker/projects/C-Sharp-Concepts/9.Polymorphism/PolymorphicParams/obj/Debug/net5.0/PolymorphicParams.sourcelink.json
+/home/booker/projects/C-Sharp-Concepts/9.Polymorphism/PolymorphicParams/obj/Debug/net5.0/PolymorphicParams.dll
+/home/booker/projects/C-Sharp-Concepts/9.Polymorphism/PolymorphicParams/obj/Debug/net5.0/refint/PolymorphicParams.dll
+/home/booker/projects/C-Sharp-Concepts/9.Polymorphism/PolymorphicParams/obj/Debug/net5.0/PolymorphicParams.pdb
+/home/booker/projects/C-Sharp-Concepts/9.Polymorphism/PolymorphicParams/obj/Debug/net5.0/PolymorphicParams.genruntimeconfig.cache
+/home/booker/projects/C-Sharp-Concepts/9.Polymorphism/PolymorphicParams/obj/Debug/net5.0/ref/PolymorphicParams.dll
