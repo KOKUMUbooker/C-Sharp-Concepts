@@ -1,0 +1,16 @@
+/home/booker/projects/C-Sharp-Concepts/11.DelegatesNEvents/CustomDelegates/bin/Debug/net5.0/CustomDelegates
+/home/booker/projects/C-Sharp-Concepts/11.DelegatesNEvents/CustomDelegates/bin/Debug/net5.0/CustomDelegates.deps.json
+/home/booker/projects/C-Sharp-Concepts/11.DelegatesNEvents/CustomDelegates/bin/Debug/net5.0/CustomDelegates.runtimeconfig.json
+/home/booker/projects/C-Sharp-Concepts/11.DelegatesNEvents/CustomDelegates/bin/Debug/net5.0/CustomDelegates.runtimeconfig.dev.json
+/home/booker/projects/C-Sharp-Concepts/11.DelegatesNEvents/CustomDelegates/bin/Debug/net5.0/CustomDelegates.dll
+/home/booker/projects/C-Sharp-Concepts/11.DelegatesNEvents/CustomDelegates/bin/Debug/net5.0/CustomDelegates.pdb
+/home/booker/projects/C-Sharp-Concepts/11.DelegatesNEvents/CustomDelegates/obj/Debug/net5.0/CustomDelegates.GeneratedMSBuildEditorConfig.editorconfig
+/home/booker/projects/C-Sharp-Concepts/11.DelegatesNEvents/CustomDelegates/obj/Debug/net5.0/CustomDelegates.AssemblyInfoInputs.cache
+/home/booker/projects/C-Sharp-Concepts/11.DelegatesNEvents/CustomDelegates/obj/Debug/net5.0/CustomDelegates.AssemblyInfo.cs
+/home/booker/projects/C-Sharp-Concepts/11.DelegatesNEvents/CustomDelegates/obj/Debug/net5.0/CustomDelegates.csproj.CoreCompileInputs.cache
+/home/booker/projects/C-Sharp-Concepts/11.DelegatesNEvents/CustomDelegates/obj/Debug/net5.0/CustomDelegates.sourcelink.json
+/home/booker/projects/C-Sharp-Concepts/11.DelegatesNEvents/CustomDelegates/obj/Debug/net5.0/CustomDelegates.dll
+/home/booker/projects/C-Sharp-Concepts/11.DelegatesNEvents/CustomDelegates/obj/Debug/net5.0/refint/CustomDelegates.dll
+/home/booker/projects/C-Sharp-Concepts/11.DelegatesNEvents/CustomDelegates/obj/Debug/net5.0/CustomDelegates.pdb
+/home/booker/projects/C-Sharp-Concepts/11.DelegatesNEvents/CustomDelegates/obj/Debug/net5.0/CustomDelegates.genruntimeconfig.cache
+/home/booker/projects/C-Sharp-Concepts/11.DelegatesNEvents/CustomDelegates/obj/Debug/net5.0/ref/CustomDelegates.dll
