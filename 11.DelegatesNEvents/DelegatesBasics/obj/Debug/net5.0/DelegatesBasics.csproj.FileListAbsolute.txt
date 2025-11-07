@@ -1,0 +1,16 @@
+/home/booker/projects/C-Sharp-Concepts/11.DelegatesNEvents/DelegatesBasics/bin/Debug/net5.0/DelegatesBasics
+/home/booker/projects/C-Sharp-Concepts/11.DelegatesNEvents/DelegatesBasics/bin/Debug/net5.0/DelegatesBasics.deps.json
+/home/booker/projects/C-Sharp-Concepts/11.DelegatesNEvents/DelegatesBasics/bin/Debug/net5.0/DelegatesBasics.runtimeconfig.json
+/home/booker/projects/C-Sharp-Concepts/11.DelegatesNEvents/DelegatesBasics/bin/Debug/net5.0/DelegatesBasics.runtimeconfig.dev.json
+/home/booker/projects/C-Sharp-Concepts/11.DelegatesNEvents/DelegatesBasics/bin/Debug/net5.0/DelegatesBasics.dll
+/home/booker/projects/C-Sharp-Concepts/11.DelegatesNEvents/DelegatesBasics/bin/Debug/net5.0/DelegatesBasics.pdb
+/home/booker/projects/C-Sharp-Concepts/11.DelegatesNEvents/DelegatesBasics/obj/Debug/net5.0/DelegatesBasics.GeneratedMSBuildEditorConfig.editorconfig
+/home/booker/projects/C-Sharp-Concepts/11.DelegatesNEvents/DelegatesBasics/obj/Debug/net5.0/DelegatesBasics.AssemblyInfoInputs.cache
+/home/booker/projects/C-Sharp-Concepts/11.DelegatesNEvents/DelegatesBasics/obj/Debug/net5.0/DelegatesBasics.AssemblyInfo.cs
+/home/booker/projects/C-Sharp-Concepts/11.DelegatesNEvents/DelegatesBasics/obj/Debug/net5.0/DelegatesBasics.csproj.CoreCompileInputs.cache
+/home/booker/projects/C-Sharp-Concepts/11.DelegatesNEvents/DelegatesBasics/obj/Debug/net5.0/DelegatesBasics.sourcelink.json
+/home/booker/projects/C-Sharp-Concepts/11.DelegatesNEvents/DelegatesBasics/obj/Debug/net5.0/DelegatesBasics.dll
+/home/booker/projects/C-Sharp-Concepts/11.DelegatesNEvents/DelegatesBasics/obj/Debug/net5.0/refint/DelegatesBasics.dll
+/home/booker/projects/C-Sharp-Concepts/11.DelegatesNEvents/DelegatesBasics/obj/Debug/net5.0/DelegatesBasics.pdb
+/home/booker/projects/C-Sharp-Concepts/11.DelegatesNEvents/DelegatesBasics/obj/Debug/net5.0/DelegatesBasics.genruntimeconfig.cache
+/home/booker/projects/C-Sharp-Concepts/11.DelegatesNEvents/DelegatesBasics/obj/Debug/net5.0/ref/DelegatesBasics.dll
