@@ -14,18 +14,44 @@ namespace CustomDelegates
                 new Person("John",40),
                 new Person("Elliot",15),
                 new Person("Pennywise",1000),
-                new Person("Antony",18)
+                new Person("Antony",25),
+                new Person("Betty",3),
+                new Person("Kelly",2),
+                new Person("Galliant",13),
             };
 
             Console.Clear();
             DisplayPeople("Minors", people, IsMinor);
             DisplayPeople("Adults", people, IsAdult);
             DisplayPeople("Seniors", people, IsSenior);
+
+            // =========== Anonymous method =============
+            // 1. Store anonymous method in a variable 
+            FilterPeopleDelegate KidsFilter = delegate (Person p)
+            {
+                return p.Age <= 10;
+            };
+            DisplayPeople("Kids", people, KidsFilter);
+
+            // 2. Use the anonymous method directly
+            DisplayPeople("All", people, delegate (Person p)
+            {
+                return true;
+            });
+
+            // ============ Lambda expressions ================
+            string searchKeyWord = "a";
+            DisplayPeople($"People with keyword \"{searchKeyWord}\"", people, p =>
+            {
+                return p.Name.Contains(searchKeyWord);
+            });
+
+            DisplayPeople("People over 25",people, p => p.Age == 25);
         }
 
         static void DisplayPeople(string title, List<Person> people, FilterPeopleDelegate filter)
         {
-            Console.WriteLine($"{title} : ");
+            Console.WriteLine($"👱 {title} : ");
             foreach (Person p in people)
             {
                 // Check if this person passes the filter
