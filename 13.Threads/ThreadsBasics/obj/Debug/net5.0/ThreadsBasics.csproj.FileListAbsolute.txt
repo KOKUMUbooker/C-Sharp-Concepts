@@ -1,0 +1,16 @@
+/home/booker/projects/C-Sharp-Concepts/13.Threads/ThreadsBasics/bin/Debug/net5.0/ThreadsBasics
+/home/booker/projects/C-Sharp-Concepts/13.Threads/ThreadsBasics/bin/Debug/net5.0/ThreadsBasics.deps.json
+/home/booker/projects/C-Sharp-Concepts/13.Threads/ThreadsBasics/bin/Debug/net5.0/ThreadsBasics.runtimeconfig.json
+/home/booker/projects/C-Sharp-Concepts/13.Threads/ThreadsBasics/bin/Debug/net5.0/ThreadsBasics.runtimeconfig.dev.json
+/home/booker/projects/C-Sharp-Concepts/13.Threads/ThreadsBasics/bin/Debug/net5.0/ThreadsBasics.dll
+/home/booker/projects/C-Sharp-Concepts/13.Threads/ThreadsBasics/bin/Debug/net5.0/ThreadsBasics.pdb
+/home/booker/projects/C-Sharp-Concepts/13.Threads/ThreadsBasics/obj/Debug/net5.0/ThreadsBasics.GeneratedMSBuildEditorConfig.editorconfig
+/home/booker/projects/C-Sharp-Concepts/13.Threads/ThreadsBasics/obj/Debug/net5.0/ThreadsBasics.AssemblyInfoInputs.cache
+/home/booker/projects/C-Sharp-Concepts/13.Threads/ThreadsBasics/obj/Debug/net5.0/ThreadsBasics.AssemblyInfo.cs
+/home/booker/projects/C-Sharp-Concepts/13.Threads/ThreadsBasics/obj/Debug/net5.0/ThreadsBasics.csproj.CoreCompileInputs.cache
+/home/booker/projects/C-Sharp-Concepts/13.Threads/ThreadsBasics/obj/Debug/net5.0/ThreadsBasics.sourcelink.json
+/home/booker/projects/C-Sharp-Concepts/13.Threads/ThreadsBasics/obj/Debug/net5.0/ThreadsBasics.dll
+/home/booker/projects/C-Sharp-Concepts/13.Threads/ThreadsBasics/obj/Debug/net5.0/refint/ThreadsBasics.dll
+/home/booker/projects/C-Sharp-Concepts/13.Threads/ThreadsBasics/obj/Debug/net5.0/ThreadsBasics.pdb
+/home/booker/projects/C-Sharp-Concepts/13.Threads/ThreadsBasics/obj/Debug/net5.0/ThreadsBasics.genruntimeconfig.cache
+/home/booker/projects/C-Sharp-Concepts/13.Threads/ThreadsBasics/obj/Debug/net5.0/ref/ThreadsBasics.dll
