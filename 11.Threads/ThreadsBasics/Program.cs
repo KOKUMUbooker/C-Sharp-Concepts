@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Threading;
+using System.Threading.Tasks;
 
 namespace ThreadsBasics
 {
@@ -25,31 +26,49 @@ namespace ThreadsBasics
             // after 1000ms. There can occasionally be some 
             // slight deviation on how long each statement blocks
             // get executed 
-            new Thread(() =>
+            // new Thread(() =>
+            // {
+            //     Thread.Sleep(1000);
+            //     Console.WriteLine("Thread 1");
+            // }).Start();
+            // new Thread(() =>
+            // {
+            //     Thread.Sleep(1000);
+            //     Console.WriteLine("Thread 2");
+            // }).Start();
+            // new Thread(() =>
+            // {
+            //     Thread.Sleep(1000);
+            //     Console.WriteLine("Thread 3");
+            // }).Start();
+            // new Thread(() =>
+            // {
+            //     Thread.Sleep(1000);
+            //     Console.WriteLine("Thread 4");
+            // }).Start();
+            // new Thread(() =>
+            // {
+            //     Thread.Sleep(1000);
+            //     Console.WriteLine("Thread 5");
+            // }).Start();
+
+            var taskCompletionSource = new TaskCompletionSource<bool>();
+
+            var thread = new Thread(() =>
             {
+                Console.WriteLine($"Thread {Thread.CurrentThread.ManagedThreadId} started");
                 Thread.Sleep(1000);
-                Console.WriteLine("Thread 1");
-            }).Start();
-            new Thread(() =>
-            {
-                Thread.Sleep(1000);
-                Console.WriteLine("Thread 2");
-            }).Start();
-            new Thread(() =>
-            {
-                Thread.Sleep(1000);
-                Console.WriteLine("Thread 3");
-            }).Start();
-            new Thread(() =>
-            {
-                Thread.Sleep(1000);
-                Console.WriteLine("Thread 4");
-            }).Start();
-            new Thread(() =>
-            {
-                Thread.Sleep(1000);
-                Console.WriteLine("Thread 5");
-            }).Start();
+                taskCompletionSource.TrySetResult(true);
+                Console.WriteLine($"Thread {Thread.CurrentThread.ManagedThreadId} ended");
+            });
+
+            thread.Start();
+
+            // ⛔ Blocks here until TrySetResult(true) is called in the thread above
+            var task = taskCompletionSource.Task.Result;
+
+            Console.WriteLine("✅ Task completed, continuing execution...");
+
         }
     }
 }
