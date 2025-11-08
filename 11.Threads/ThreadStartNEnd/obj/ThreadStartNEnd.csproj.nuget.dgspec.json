@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/booker/projects/C-Sharp-Concepts/11.Threads/ThreadsBasics/ThreadsBasics.csproj": {}
+    "/home/booker/projects/C-Sharp-Concepts/11.Threads/ThreadStartNEnd/ThreadStartNEnd.csproj": {}
   },
   "projects": {
-    "/home/booker/projects/C-Sharp-Concepts/11.Threads/ThreadsBasics/ThreadsBasics.csproj": {
+    "/home/booker/projects/C-Sharp-Concepts/11.Threads/ThreadStartNEnd/ThreadStartNEnd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/booker/projects/C-Sharp-Concepts/11.Threads/ThreadsBasics/ThreadsBasics.csproj",
-        "projectName": "ThreadsBasics",
-        "projectPath": "/home/booker/projects/C-Sharp-Concepts/11.Threads/ThreadsBasics/ThreadsBasics.csproj",
+        "projectUniqueName": "/home/booker/projects/C-Sharp-Concepts/11.Threads/ThreadStartNEnd/ThreadStartNEnd.csproj",
+        "projectName": "ThreadStartNEnd",
+        "projectPath": "/home/booker/projects/C-Sharp-Concepts/11.Threads/ThreadStartNEnd/ThreadStartNEnd.csproj",
         "packagesPath": "/home/booker/.nuget/packages/",
-        "outputPath": "/home/booker/projects/C-Sharp-Concepts/11.Threads/ThreadsBasics/obj/",
+        "outputPath": "/home/booker/projects/C-Sharp-Concepts/11.Threads/ThreadStartNEnd/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/booker/.nuget/NuGet/NuGet.Config"
