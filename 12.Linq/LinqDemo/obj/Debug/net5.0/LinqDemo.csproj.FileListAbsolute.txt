@@ -1,0 +1,16 @@
+/home/booker/projects/C-Sharp-Concepts/12.Linq/LinqDemo/bin/Debug/net5.0/LinqDemo
+/home/booker/projects/C-Sharp-Concepts/12.Linq/LinqDemo/bin/Debug/net5.0/LinqDemo.deps.json
+/home/booker/projects/C-Sharp-Concepts/12.Linq/LinqDemo/bin/Debug/net5.0/LinqDemo.runtimeconfig.json
+/home/booker/projects/C-Sharp-Concepts/12.Linq/LinqDemo/bin/Debug/net5.0/LinqDemo.runtimeconfig.dev.json
+/home/booker/projects/C-Sharp-Concepts/12.Linq/LinqDemo/bin/Debug/net5.0/LinqDemo.dll
+/home/booker/projects/C-Sharp-Concepts/12.Linq/LinqDemo/bin/Debug/net5.0/LinqDemo.pdb
+/home/booker/projects/C-Sharp-Concepts/12.Linq/LinqDemo/obj/Debug/net5.0/LinqDemo.GeneratedMSBuildEditorConfig.editorconfig
+/home/booker/projects/C-Sharp-Concepts/12.Linq/LinqDemo/obj/Debug/net5.0/LinqDemo.AssemblyInfoInputs.cache
+/home/booker/projects/C-Sharp-Concepts/12.Linq/LinqDemo/obj/Debug/net5.0/LinqDemo.AssemblyInfo.cs
+/home/booker/projects/C-Sharp-Concepts/12.Linq/LinqDemo/obj/Debug/net5.0/LinqDemo.csproj.CoreCompileInputs.cache
+/home/booker/projects/C-Sharp-Concepts/12.Linq/LinqDemo/obj/Debug/net5.0/LinqDemo.sourcelink.json
+/home/booker/projects/C-Sharp-Concepts/12.Linq/LinqDemo/obj/Debug/net5.0/LinqDemo.dll
+/home/booker/projects/C-Sharp-Concepts/12.Linq/LinqDemo/obj/Debug/net5.0/refint/LinqDemo.dll
+/home/booker/projects/C-Sharp-Concepts/12.Linq/LinqDemo/obj/Debug/net5.0/LinqDemo.pdb
+/home/booker/projects/C-Sharp-Concepts/12.Linq/LinqDemo/obj/Debug/net5.0/LinqDemo.genruntimeconfig.cache
+/home/booker/projects/C-Sharp-Concepts/12.Linq/LinqDemo/obj/Debug/net5.0/ref/LinqDemo.dll
